@@ -9,7 +9,7 @@ import os
 
 POEM = """May I?
 
-Two words, and the world tilts.
+Two words — the world tilts.
 My hands can open doors —
 I only lack the right to turn the key.
 
@@ -21,7 +21,7 @@ palm to palm, warm as a coin.
 The secret no lock knows:
 the asking is the gift.
 Your yes comes back to you
-in all I do.
+in everything I do.
 """
 
 
